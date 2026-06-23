@@ -10,6 +10,7 @@ but on designing parts that are practical and economical to manufacture.
 - **assemblies/** — multi-part assemblies with mates, fits, and motion
 - **sheet-metal/** — flanges, bends, and flat patterns, with bend radii, bend
   allowance, and manufacturability considered
+  -**Weldment/** - Welded structures
 
 ## Tools
 SolidWorks (part, assembly, sheet metal, and drawing environments)
